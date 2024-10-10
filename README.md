@@ -1,1 +1,1 @@
-# Rock_Paper_Scissor_in_React
+# Rock_Paper_Scissor_in_Javascript
