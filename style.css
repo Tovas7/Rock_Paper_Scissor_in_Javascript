@@ -1,0 +1,24 @@
+.Choice_Btn{
+    line-height: 30px;
+    width: 150px;
+}
+
+#Player_Text{
+color: #1100ff;
+}
+#Computer_Text{
+    color: #f709c3;
+}
+#Game_Div{
+	display:flex;
+	align-items:center;
+	flex-direction:coulumn;
+justify-content:center;
+    font-family: 'Brush Script MT',cursive;
+    border: 3px solid;
+    border-radius: 25px ;
+    padding: 10px;
+    background-color:lightgray;
+    text-align: center;
+
+}
